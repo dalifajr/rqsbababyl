@@ -3,3 +3,4 @@
 # Baris komentar diawali dengan # dan akan diabaikan.
 
 zzzikin|Lifetime
+dzul|Lifetime
